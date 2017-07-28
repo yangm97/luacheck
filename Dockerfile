@@ -1,4 +1,4 @@
-FROM yangm97/lua:latest
+FROM yangm97/lua:5.3-alpine
 
 WORKDIR /data
 
